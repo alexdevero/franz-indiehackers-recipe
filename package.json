@@ -1,0 +1,15 @@
+{
+  "id": "indiehackers",
+  "name": "Indie Hackers",
+  "version": "1.0.0",
+  "description": "Indie Hackers",
+  "main": "index.js",
+  "author": "Alex Devero <deveroalex@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/alexdevero/franz-indiehackers-recipe",
+  "config": {
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "serviceURL": "https://www.indiehackers.com/"
+  }
+}
